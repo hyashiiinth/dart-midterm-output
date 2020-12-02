@@ -1,0 +1,3 @@
+name: my_app
+dependencies:
+    emojis: ^0.9.3
